@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heading {
+  width: 100%;
+  height: 50px;
+  background-color: #ff9a4b;
+}
+
+main {
+  margin: 50px auto;
+  width: 960px;
+}
+
+section {
+  background-color: #EEEEEE;
+  width: 300px;
+}
+
+.step {
+  width: 50px;
+  color: #f1f1f1;
+  background-color: #ff9a4b;
+  text-align: center;
+}
+
+.image {
+  background-image: url();
+}
